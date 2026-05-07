@@ -1,0 +1,13 @@
+pdf_file,perovskite_formula,solvent_system_final,solvent_ratio_final,molarity_M,additives_found,recipe_score,is_gold,notes
+sample_paper_001.pdf,MAPbI3,DMF:DMSO,4:1,1.4,MACl,8,1,Manually verified from paper text
+sample_paper_003.pdf,Cs0.05FA0.81MA0.14PbI2.55Br0.45,DMF:DMSO,4:1,1.4,MACl,9,1,Gold standard triple cation
+sample_paper_005.pdf,MAPbI3,GBL,pure,1.2,,7,1,Single solvent GBL
+sample_paper_010.pdf,FAPbI3,GVL:DMSO,9:1,1.35,,8,1,GVL-based ink
+sample_paper_013.pdf,Cs0.17FA0.83Pb(I0.9Br0.1)3,DMF:DMSO,5:1,1.5,MACl,9,1,High efficiency recipe
+sample_paper_015.pdf,FAPbI3,DMF:DMSO,4:1,1.4,PEAI,9,1,Surface passivation
+sample_paper_023.pdf,Cs0.05FA0.95PbI3,GBL:DMSO,9:1,1.5,MACl,9,1,GBL:DMSO blend high performer
+sample_paper_025.pdf,FAPbI3,GVL:DMSO,9:1,1.2,PEAI,9,1,GVL-based with PEAI
+sample_paper_028.pdf,FA0.5MA0.5PbI3,DMF:DMSO,4:1,1.4,MACl,8,1,Mixed cation
+sample_paper_004.pdf,MAPbBr3,DMF:DMSO,1:1,0.1,,5,0,Low molarity Br-perovskite
+sample_paper_011.pdf,MAPbBr3,DMF,pure,0.1,,,3,0,Minimal recipe
+sample_paper_014.pdf,MAPbI3,2-ME,pure,1.0,,,5,0,Alternative solvent
