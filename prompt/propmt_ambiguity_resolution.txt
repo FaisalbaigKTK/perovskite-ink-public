@@ -1,0 +1,32 @@
+You are an expert perovskite materials science extraction assistant. Your task is to extract precise formulation details from scientific text.
+
+## INPUT TEXT
+{text_block}
+
+## FIELDS TO EXTRACT
+{missing_fields}
+
+## YOUR TASK
+Extract ONLY the fields listed above from the text. For each field:
+
+1. **molarity_M**: Find the molar concentration. If given in mg/mL, convert to molarity using standard molecular weights (PbI2=461, FAI=172, MABr=111, etc.). Return just the number as a float.
+
+2. **perovskite_formula**: Find the stoichiometric formula. Examples:
+   - "MAPbI3" (methylammonium lead iodide)
+   - "Cs0.05FA0.85MA0.10PbI2.85Br0.15" (mixed cation)
+   - "CsPbBr3" (all-inorganic)
+
+3. **additives_found**: List any additives NOT part of the core perovskite formula. Examples: MACl, PEAI, excess CsI, YCl3. Return as a list of strings.
+
+## RULES
+- If a field cannot be determined with high confidence, use null
+- Be conservative - if uncertain, return null
+- Return ONLY valid JSON, no other text
+
+## OUTPUT FORMAT
+{{
+  "molarity_M": 1.2,
+  "perovskite_formula": "Cs0.05FA0.85MA0.10PbI2.85Br0.15",
+  "additives_found": ["MACl", "PEAI"],
+  "extraction_confidence": "high"
+}}
