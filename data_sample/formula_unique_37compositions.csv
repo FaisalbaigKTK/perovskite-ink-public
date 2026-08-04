@@ -1,0 +1,38 @@
+perovskite_formula,n_records,formula_family,confidence_modes
+(PEA)0.2(FA)0.8SnI3,1,2D/quasi-2D,high
+(PEA)2(MA)3Pb4I13,1,2D/quasi-2D,high
+(R- or S-α-PEA)PbI3,1,2D/quasi-2D,high
+BA2Csn-1PbnBr3n+1,1,2D/quasi-2D,medium
+PEA2(CsPbBr3)n-1PbBr4,1,2D/quasi-2D,low
+PEA2(FAPbBr3)n-1PbBr4,1,2D/quasi-2D,high
+Cs0.8Pb(I0.8Br0.2)3,1,All-inorganic (CsPbX3),medium
+CsPbBr3,6,All-inorganic (CsPbX3),high/low/medium
+CsPbClxBr3-x,1,All-inorganic (CsPbX3),high
+CsPbI3,3,All-inorganic (CsPbX3),high
+Cs0.05FA0.95PbI3,1,Double-cation (Cs/FA),high
+Cs0.1FA0.9PbI3,1,Double-cation (Cs/FA),high
+Cs0.2FA0.8Pb(I0.75Br0.25)3,1,Double-cation (Cs/FA),high
+Cs1.2FA0.3PbBr3-xClx,1,Double-cation (Cs/FA),high
+FAxCs1-xPbI3,1,Double-cation (Cs/FA),medium
+(FAPbI3)0.85(MAPbBr3)0.15,1,Double-cation (FA/MA),high
+FA0.83MA0.17PbI2.83Br0.17,3,Double-cation (FA/MA),high/low
+FA0.85MA0.15PbI2.55Br0.45,1,Double-cation (FA/MA),high
+FA0.85MA0.15PbI2.85Br0.15,1,Double-cation (FA/MA),high
+Cs3Bi2I9,1,Non-Pb (Bi-based),high
+FA0.75MA0.25SnI3,1,Non-Pb (Sn-based),high
+MASnI3,1,Non-Pb (Sn-based),medium
+(C4H9NH3)2PbBr4,1,Other/complex,low
+(HC(NH2)2PbI3)0.85(CH3NH3PbBr3)0.15,1,Other/complex,medium
+CsxEA1-xPbBr3,1,Other/complex,high
+MA1-xGuaxPbI3,1,Other/complex,high
+FAPbI3,4,Single-cation (FA),high/medium
+MAPbBr3,1,Single-cation (MA),high
+MAPbI3,13,Single-cation (MA),high/medium
+MAPbI3-xClx,1,Single-cation (MA),high
+Cs0.04(FA0.84MA0.16)0.96Pb(I0.84Br0.16)3,1,Triple-cation (Cs/FA/MA),high
+Cs0.05(FA0.83MA0.17)0.95Pb(I0.9Br0.1)3,1,Triple-cation (Cs/FA/MA),high
+Cs0.05(FA0.85MA0.15)0.95Pb(I0.85Br0.15)3,1,Triple-cation (Cs/FA/MA),high
+Cs0.05FA0.81MA0.14PbI2.55Br0.45,1,Triple-cation (Cs/FA/MA),high
+Cs0.05FA0.82MA0.13PbI2.7Br0.3,1,Triple-cation (Cs/FA/MA),high
+CsxFA1-x-yMAyPbI3-zBrz,1,Triple-cation (Cs/FA/MA),high
+MA0.15FA0.79Cs0.06Pb(I0.85Br0.15)3,1,Triple-cation (Cs/FA/MA),high

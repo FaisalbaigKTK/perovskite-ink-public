@@ -1,0 +1,62 @@
+record_no,pdf_file,perovskite_formula,extraction_confidence,formula_family
+1,2018_10.1038s41467-018-07099-9_Universal_passivation_strategy_to_slot-die_printed_SnO2_for_hysteresis-free_efficient_flexible_perovskite_sol.pdf,Cs0.05(FA0.85MA0.15)0.95Pb(I0.85Br0.15)3,high,Triple-cation (Cs/FA/MA)
+2,2019_10.1038s41467-019-08507-4_Strain_engineering_in_perovskite_solar_cells_and_its_impacts_on_carrier_dynamics.pdf,FA0.85MA0.15PbI2.55Br0.45,high,Double-cation (FA/MA)
+3,2018_10.1038s41467-018-05583-w_Understanding_how_excess_lead_iodide_precursor_improves_halide_perovskite_solar_cell_performance.pdf,(FAPbI3)0.85(MAPbBr3)0.15,high,Double-cation (FA/MA)
+4,2017_10.1038ncomms15640_Ultra-bright_and_highly_efficient_inorganic_based_perovskite_light-emitting_diodes.pdf,CsPbBr3,high,All-inorganic (CsPbX3)
+5,2021_10.1038s41467-021-22049-8_A_general_approach_to_high-efficiency_perovskite_solar_cells_by_any_antisolvent.pdf,Cs0.05FA0.82MA0.13PbI2.7Br0.3,high,Triple-cation (Cs/FA/MA)
+6,2019_10.1038s41467-019-08980-x_Synthetic_control_over_orientational_degeneracy_of_spacer_cations_enhances_solar_cell_efficiency_in_two-dimen.pdf,(PEA)2(MA)3Pb4I13,high,2D/quasi-2D
+7,2019_10.1038s41467-019-09167-0_A_chemically_inert_bismuth_interlayer_enhances_long-term_stability_of_inverted_perovskite_solar_cells.pdf,MAPbI3,high,Single-cation (MA)
+8,2018_10.1039c8ee01447g_How_the_formation_of_interfacial_charge_causes_hysteresis_in_perovskite_solar_cells.pdf,FA0.83MA0.17PbI2.83Br0.17,high,Double-cation (FA/MA)
+9,2018_10.1038s41467-018-05076-w_Manipulation_of_facet_orientation_in_hybrid_perovskite_polycrystalline_films_by_cation_cascade.pdf,FA0.83MA0.17PbI2.83Br0.17,high,Double-cation (FA/MA)
+10,2018_10.1039c8ra03471k_Understanding_effects_of_precursor_solution_aging_in_triple_cation_lead_perovskite.pdf,CsxFA1-x-yMAyPbI3-zBrz,high,Triple-cation (Cs/FA/MA)
+11,2019_10.1038s41467-019-08455-z_Perovskite-polymer_composite_cross-linker_approach_for_highly-stable_and_efficient_perovskite_solar_cells.pdf,MAPbI3,high,Single-cation (MA)
+12,2021_10.1038s41467-021-21292-3_Interpenetrating_interfaces_for_efficient_perovskite_solar_cells_with_high_operational_stability_and_mechanic.pdf,Cs0.04(FA0.84MA0.16)0.96Pb(I0.84Br0.16)3,high,Triple-cation (Cs/FA/MA)
+13,2015_10.1038ncomms8586_High-quality_bulk_hybrid_perovskite_single_crystals_within_minutes_by_inverse_temperature_crystallization.pdf,MAPbI3,high,Single-cation (MA)
+14,2018_10.1038s41467-018-05760-x_High_efficiency_planar-type_perovskite_solar_cells_with_negligible_hysteresis_using_EDTA-complexed_SnO2.pdf,Cs0.05FA0.95PbI3,high,Double-cation (Cs/FA)
+15,2018_10.1038s41467-018-06709-w_Multifunctional_molecular_modulators_for_perovskite_solar_cells_with_over_20_efficiency_and_high_operational_.pdf,FAxCs1-xPbI3,medium,Double-cation (Cs/FA)
+16,2018_10.1038s41467-018-05531-8_Dipolar_cations_confer_defect_tolerance_in_wide-bandgap_metal_halide_perovskites.pdf,Cs0.2FA0.8Pb(I0.75Br0.25)3,high,Double-cation (Cs/FA)
+17,2020_10.1038s41598-020-63674-5_Fully_Spray-Coated_Triple-Cation_Perovskite_Solar_Cells.pdf,Cs0.05FA0.81MA0.14PbI2.55Br0.45,high,Triple-cation (Cs/FA/MA)
+18,2022_10.1039d2se00162d_Recent_developments_in_perovskite-based_precursor_inks_for_scalable_architectures_of_perovskite_solar_cell_technology.pdf,(HC(NH2)2PbI3)0.85(CH3NH3PbBr3)0.15,medium,Other/complex
+19,2023_10.1038s41467-023-36229-1_One-stone-for-two-birds_strategy_to_attain_beyond_25_perovskite_solar_cells.pdf,FAPbI3,high,Single-cation (FA)
+20,2017_10.1038s41598-017-12436-x_Hysteresis-free_perovskite_solar_cells_made_of_potassium-doped_organometal_halide_perovskite.pdf,FA0.85MA0.15PbI2.85Br0.15,high,Double-cation (FA/MA)
+21,2015_10.1039c5ee02608c_Highly_efficient_planar_perovskite_solar_cells_through_band_alignment_engineering.pdf,FA0.83MA0.17PbI2.83Br0.17,low,Double-cation (FA/MA)
+22,2022_10.26599nre.2022.9120004_Self-assembled_monolayer_enabling_improved_buried_interfaces_in_blade-coated_perovskite_solar_cells_for_high_e.pdf,MAPbI3,high,Single-cation (MA)
+23,2020_10.21203rs.3.rs-93765v1_20.8_slot-die_coated_MAPbI3_perovskite_solar_cells_by_optimal_DMSO-content_and_age_of_2-ME_based_precursor_inks.pdf,MAPbI3,high,Single-cation (MA)
+24,2018_10.1038s41467-018-02978-7_Efficient_green_light-emitting_diodes_based_on_quasi-two-dimensional_composition_and_phase_engineered_perovsk.pdf,PEA2(FAPbBr3)n-1PbBr4,high,2D/quasi-2D
+25,2019_10.1039c8ee02751j_Lattice_strain_causes_non-radiative_losses_in_halide_perovskites.pdf,MA0.15FA0.79Cs0.06Pb(I0.85Br0.15)3,high,Triple-cation (Cs/FA/MA)
+26,2020_10.1038s41467-020-16726-3_SnIV-free_tin_perovskite_films_realized_by_in_situ_Sn0_nanoparticle_treatment_of_the_precursor_solution.pdf,FA0.75MA0.25SnI3,high,Non-Pb (Sn-based)
+27,2021_10.1039d1ta06556d_A_synopsis_of_progressive_transition_in_precursor_inks_development_for_metal_halide_perovskites-based_photovoltaic_te.pdf,FAPbI3,medium,Single-cation (FA)
+28,2018_10.1038s41467-018-06425-5_Solution-processed_perovskite_light_emitting_diodes_with_efficiency_exceeding_15_through_additive-controlled_.pdf,CsPbBr3,high,All-inorganic (CsPbX3)
+29,2020_10.1039d0ma00077a_Inkjet_printed_mesoscopic_perovskite_solar_cells_with_custom_design_capability.pdf,MAPbI3,high,Single-cation (MA)
+30,2021_10.1038s41467-020-20433-4_Large-area_and_efficient_perovskite_light-emitting_diodes_via_low-temperature_blade-coating.pdf,MAPbI3,medium,Single-cation (MA)
+31,2018_10.1038s41467-018-04029-7_Perovskite_seeding_growth_of_formamidinium-lead-iodide-based_perovskites_for_efficient_and_stable_solar_cells.pdf,FAPbI3,high,Single-cation (FA)
+32,2018_10.1038s41467-018-04636-4_Solvent-controlled_growth_of_inorganic_perovskite_films_in_dry_environment_for_efficient_and_stable_solar_cel.pdf,CsPbI3,high,All-inorganic (CsPbX3)
+33,2016_10.1038srep37254_X-ray_Scintillation_in_Lead_Halide_Perovskite_Crystals.pdf,MAPbBr3,high,Single-cation (MA)
+34,2018_10.1038s41467-018-03169-0_Surface_passivation_engineering_strategy_to_fully-inorganic_cubic_CsPbI3_perovskites_for_high-performance_sol.pdf,CsPbI3,high,All-inorganic (CsPbX3)
+35,2020_10.1038s41467-019-13909-5_Highly_efficient_all-inorganic_perovskite_solar_cells_with_suppressed_non-radiative_recombination_by_a_Lewis_.pdf,Cs0.8Pb(I0.8Br0.2)3,medium,All-inorganic (CsPbX3)
+36,2018_10.1038s41467-018-04028-8_Molecular_doping_enabled_scalable_blading_of_efficient_hole-transport-layer-free_perovskite_solar_cells.pdf,MAPbI3,high,Single-cation (MA)
+37,2016_10.1038ncomms10228_A_polymer_scaffold_for_self-healing_perovskite_solar_cells.pdf,MAPbI3,medium,Single-cation (MA)
+38,2020_10.1038s41467-020-16034-w_Nucleation-controlled_growth_of_superior_lead-free_perovskite_Cs3Bi2I9_single-crystals_for_high-performance_X.pdf,Cs3Bi2I9,high,Non-Pb (Bi-based)
+39,2019_10.1038s41467-019-09942-z_Circularly_polarized_light_detection_using_chiral_hybrid_perovskite.pdf,(R- or S-α-PEA)PbI3,high,2D/quasi-2D
+40,2018_10.1038s41467-018-06915-6_All-inorganic_cesium_lead_iodide_perovskite_solar_cells_with_stabilized_efficiency_beyond_15.pdf,CsPbI3,high,All-inorganic (CsPbX3)
+41,2021_10.1038s41467-021-22864-z_Degradation_mechanism_of_hybrid_tin-based_perovskite_solar_cells_and_the_critical_role_of_tin_IV_iodide.pdf,(PEA)0.2(FA)0.8SnI3,high,2D/quasi-2D
+42,2019_10.1038s41467-019-09011-5_Modulation_of_recombination_zone_position_for_quasi-two-dimensional_blue_perovskite_light-emitting_diodes_wit.pdf,CsPbClxBr3-x,high,All-inorganic (CsPbX3)
+43,2019_10.1038s41467-019-13580-w_Efficient_sky-blue_perovskite_light-emitting_diodes_via_photoluminescence_enhancement.pdf,CsPbBr3,high,All-inorganic (CsPbX3)
+44,2021_10.1038s41467-020-20582-6_Mixed_halide_perovskites_for_spectrally_stable_and_high-efficiency_blue_light-emitting_diodes.pdf,Cs1.2FA0.3PbBr3-xClx,high,Double-cation (Cs/FA)
+45,2023_10.1038s41560-023-01249-0_Bifunctional_hole-shuttle_molecule_for_improved_interfacial_energy_level_alignment_and_defect_passivation_in_.pdf,FAPbI3,medium,Single-cation (FA)
+46,2017_10.1038s41560-017-0054-3_Large_guanidinium_cation_mixed_with_methylammonium_in_lead_iodide_perovskites_for_19_efficient_solar_cells.pdf,MA1-xGuaxPbI3,high,Other/complex
+47,2018_10.1038s41528-018-0035-z_Defects_engineering_for_high-performance_perovskite_solar_cells.pdf,MAPbI3,medium,Single-cation (MA)
+48,2021_10.1038s41377-021-00501-0_High-performance_quasi-2D_perovskite_light-emitting_diodes_from_materials_to_devices.pdf,PEA2(CsPbBr3)n-1PbBr4,low,2D/quasi-2D
+49,2016_10.1038ncomms12305_Facile_fabrication_of_large-grain_CH3NH3PbI3xBrx_films_for_high-efficiency_solar_cells_via_CH3NH3Br-selective_Ostwal.pdf,MAPbI3,medium,Single-cation (MA)
+50,2019_10.1038s41467-019-08425-5_Trifluoroacetate_induced_small-grained_CsPbBr3_perovskite_films_result_in_efficient_and_stable_light-emitting.pdf,CsPbBr3,low,All-inorganic (CsPbX3)
+51,2019_10.1038s41467-019-10612-3_Unveiling_the_synergistic_effect_of_precursor_stoichiometry_and_interfacial_reactions_for_perovskite_light-em.pdf,Cs0.1FA0.9PbI3,high,Double-cation (Cs/FA)
+52,2020_10.1039d0ra06074g_Facile_all-dip-coating_deposition_of_highly_efficient_CHsub3subsub3subNPbIsub3xsubClsubxsub_perovskite_materials_from.pdf,MAPbI3-xClx,high,Single-cation (MA)
+53,2016_10.1038am.2016.167_Colloidal_lead_halide_perovskite_nanocrystals_synthesis_optical_properties_and_applications.pdf,(C4H9NH3)2PbBr4,low,Other/complex
+54,2017_10.1039c7ee01674c_Impact_of_Hsub2subO_on_organicinorganic_hybrid_perovskite_solar_cells.pdf,MAPbI3,medium,Single-cation (MA)
+55,2019_10.1038s41467-019-10634-x_Lead_halide_perovskites_for_photocatalytic_organic_synthesis.pdf,CsPbBr3,medium,All-inorganic (CsPbX3)
+56,2021_10.1038s41467-021-21522-8_Smoothing_the_energy_transfer_pathway_in_quasi-2D_perovskite_films_using_methanesulfonate_leads_to_highly_eff.pdf,BA2Csn-1PbnBr3n+1,medium,2D/quasi-2D
+57,2021_10.1038s41578-020-00274-9_Colloidal_quantum_dot_lasers.pdf,CsPbBr3,low,All-inorganic (CsPbX3)
+58,2016_10.1039c6ee01137c_Progress_challenges_and_perspectives_in_flexible_perovskite_solar_cells.pdf,MAPbI3,medium,Single-cation (MA)
+59,2021_10.1007s40820-020-00578-z_Lead-Free_Perovskite_Materials_for_Solar_Cells.pdf,MASnI3,medium,Non-Pb (Sn-based)
+60,2020_10.1038s41467-020-17943-6_Large_cation_ethylammonium_incorporated_perovskite_for_efficient_and_spectra_stable_blue_light-emitting_diode.pdf,CsxEA1-xPbBr3,high,Other/complex
+61,2018_10.1039c8ee01136b_Fractional_deviations_in_precursor_stoichiometry_dictate_the_properties_performance_and_stability_of_perovskite_photo.pdf,Cs0.05(FA0.83MA0.17)0.95Pb(I0.9Br0.1)3,high,Triple-cation (Cs/FA/MA)
