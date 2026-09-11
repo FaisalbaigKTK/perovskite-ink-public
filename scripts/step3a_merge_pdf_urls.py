@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
 IN_CAND = DATA_DIR / "01_search" / "step2_candidates.csv"
