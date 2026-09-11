@@ -121,7 +121,7 @@ python evaluation/evaluate_classifiers.py \
 ### Run full pipeline (requires API key + internet)
 
 ```bash
-python scripts/run_all.py
+python scripts/run_all_final.py
 ```
 
 ---
