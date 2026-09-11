@@ -22,7 +22,7 @@ try:
         sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 except Exception:
     pass
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 OUT_DIR = DATA_DIR / "01_search"
 OUT_DIR.mkdir(parents=True, exist_ok=True)
