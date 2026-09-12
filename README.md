@@ -37,9 +37,6 @@ perovskite_ink_public/
 ├── prompts/
 │   └── llm_extraction_prompts.md        # All LLM prompts used for extraction
 │
-├── pseudocode/
-│   └── pipeline_pseudocode.md           # Step-by-step pseudocode & data flow diagram
-│
 ├── evaluation/
 │   ├── evaluate_extraction.py           # Field-level precision/recall/F1
 │   └── evaluate_classifiers.py          # ROC-AUC, P@K for ML classifiers
